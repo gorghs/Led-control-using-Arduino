@@ -1,8 +1,7 @@
-##### name: karthick v
-####  regno : 212223004086
-#### dept : cse
-
-# Led-control-using-Arduino
+# Exp 01 - Led control using Arduino
+##### Name: karthick v
+####  Regno : 212223004086
+####  Dept : cse
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
